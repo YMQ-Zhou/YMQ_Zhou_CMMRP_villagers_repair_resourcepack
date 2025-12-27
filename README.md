@@ -7,4 +7,5 @@ It is not allowed to be used for any commercial activities or listed on any paid
 support mod list:\
 Create: Dynamic Village \
 Kaleidoscope Cookery\
-VillagersPlus
+VillagersPlus\
+Applied Energistics2
